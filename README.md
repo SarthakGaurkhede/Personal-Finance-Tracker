@@ -2,8 +2,8 @@
 
 A modern, interactive **Personal Finance Tracker** that helps users manage income and expenses with ease. This web-based application allows individuals to take control of their financial life with a clean UI and dynamic tracking features.
 
-![Dashboard Screenshot 1](assets/Screenshot-1.png)
-![Dashboard Screenshot 2](assets/Screenshot-2.png)
+![Dashboard Screenshot 1](home.png)
+![Dashboard Screenshot 2](Tracker.png)
 
 ---
 
@@ -44,11 +44,11 @@ The application is responsive and user-friendly, built with HTML, CSS, and JavaS
 
 ### 🏠 Home Page
 
-![Home](assets/Screenshot-1.png)
+![Home](home.png)
 
 ### 📊 Tracker Section
 
-![Tracker](assets/Screenshot-2.png)
+![Tracker](Tracker.png)
 
 ---
 
